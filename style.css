@@ -1,0 +1,9 @@
+*{
+    background-color: bisque;
+}
+
+li{
+    list-style: none;
+    margin-left: 5%;
+    color: blue;
+}
